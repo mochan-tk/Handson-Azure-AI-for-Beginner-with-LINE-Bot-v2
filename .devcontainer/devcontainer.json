@@ -20,6 +20,7 @@
                 "ms-azuretools.vscode-cosmosdb",
                 "ms-azuretools.vscode-bicep",
                 "ms-toolsai.prompty",
+                "ms-azuretools.vscode-azure-github-copilot",
                 "github.copilot"
             ]
         }
